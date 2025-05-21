@@ -1,0 +1,68 @@
+{
+    "unit_1": [
+        {
+            "word": "apple",
+            "meaning": "תפוח"
+        },
+        {
+            "word": "banana",
+            "meaning": "בננה"
+        },
+        {
+            "word": "grape",
+            "meaning": "ענב"
+        },
+        {
+            "word": "orange",
+            "meaning": "תפוז"
+        },
+        {
+            "word": "pear",
+            "meaning": "אגס"
+        }
+    ],
+    "unit_2": [
+        {
+            "word": "book",
+            "meaning": "ספר"
+        },
+        {
+            "word": "pen",
+            "meaning": "עט"
+        },
+        {
+            "word": "pencil",
+            "meaning": "עיפרון"
+        },
+        {
+            "word": "school",
+            "meaning": "בית ספר"
+        },
+        {
+            "word": "teacher",
+            "meaning": "מורה"
+        }
+    ],
+    "unit_3": [
+        {
+            "word": "sun",
+            "meaning": "שמש"
+        },
+        {
+            "word": "moon",
+            "meaning": "ירח"
+        },
+        {
+            "word": "star",
+            "meaning": "כוכב"
+        },
+        {
+            "word": "cloud",
+            "meaning": "ענן"
+        },
+        {
+            "word": "rain",
+            "meaning": "גשם"
+        }
+    ]
+}
